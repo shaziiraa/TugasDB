@@ -1,5 +1,5 @@
-# Bengkelku
-Bengkelku merupakan Sistem Reservasi Jadwal Service Motor Berbasis Web
+# Bepress
+Bepress merupakan Sistem Reservasi Jadwal Service Motor Berbasis Web
 
 # Bahasa :
 PHP
